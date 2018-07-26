@@ -1,7 +1,7 @@
 # Gravitunes
 
 A physical art project
-https://michaelkipp.github.io/Geosploder/
+https://michaelkipp.github.io/Geosploders/
 
 ## Built With
 
